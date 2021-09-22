@@ -12,7 +12,7 @@ public class App
 	private static final Logger Log = LogManager.getLogger(App.class);
     public static void main( String[] args )
     {
-    	String message = "Hello world";
+    	String message = "Hello  welcome to the world";
     	Log.debug(message +"will be printed on debug");
     	Log.info(message +"will be printed on info");
     	Log.warn(message +"will be printed on warn");
