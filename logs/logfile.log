@@ -1,0 +1,74 @@
+DEBUG | 2021-09-20 22:02:04 | [main] javapractice.App (App.java:16) - hello worldwill be printed on debug
+INFO  | 2021-09-20 22:02:04 | [main] javapractice.App (App.java:17) - hello worldwill be printed on info
+WARN  | 2021-09-20 22:02:04 | [main] javapractice.App (App.java:18) - hello worldwill be printed on warn
+ERROR | 2021-09-20 22:02:04 | [main] javapractice.App (App.java:19) - hello worldwill be printed on error
+FATAL | 2021-09-20 22:02:04 | [main] javapractice.App (App.java:20) - hello worldwill be printed on fatal
+INFO  | 2021-09-20 22:02:04 | [main] javapractice.App (App.java:21) - appending string;hello world.
+DEBUG | 2021-09-20 22:02:13 | [main] javapractice.App (App.java:16) - hello worldwill be printed on debug
+INFO  | 2021-09-20 22:02:13 | [main] javapractice.App (App.java:17) - hello worldwill be printed on info
+WARN  | 2021-09-20 22:02:13 | [main] javapractice.App (App.java:18) - hello worldwill be printed on warn
+ERROR | 2021-09-20 22:02:13 | [main] javapractice.App (App.java:19) - hello worldwill be printed on error
+FATAL | 2021-09-20 22:02:13 | [main] javapractice.App (App.java:20) - hello worldwill be printed on fatal
+INFO  | 2021-09-20 22:02:13 | [main] javapractice.App (App.java:21) - appending string;hello world.
+DEBUG | 2021-09-20 22:12:07 | [main] javapractice.App (App.java:16) - hello worldwill be printed on debug
+INFO  | 2021-09-20 22:12:07 | [main] javapractice.App (App.java:17) - hello worldwill be printed on info
+WARN  | 2021-09-20 22:12:07 | [main] javapractice.App (App.java:18) - hello worldwill be printed on warn
+ERROR | 2021-09-20 22:12:07 | [main] javapractice.App (App.java:19) - hello worldwill be printed on error
+FATAL | 2021-09-20 22:12:07 | [main] javapractice.App (App.java:20) - hello worldwill be printed on fatal
+INFO  | 2021-09-20 22:12:07 | [main] javapractice.App (App.java:21) - appending string;hello world.
+DEBUG | 2021-09-20 22:12:25 | [main] javapractice.App (App.java:16) - hello worldwill be printed on debug
+INFO  | 2021-09-20 22:12:25 | [main] javapractice.App (App.java:17) - hello worldwill be printed on info
+WARN  | 2021-09-20 22:12:25 | [main] javapractice.App (App.java:18) - hello worldwill be printed on warn
+ERROR | 2021-09-20 22:12:25 | [main] javapractice.App (App.java:19) - hello worldwill be printed on error
+FATAL | 2021-09-20 22:12:25 | [main] javapractice.App (App.java:20) - hello worldwill be printed on fatal
+INFO  | 2021-09-20 22:12:25 | [main] javapractice.App (App.java:21) - appending string;hello world.
+DEBUG | 2021-09-20 22:12:27 | [main] javapractice.App (App.java:16) - hello worldwill be printed on debug
+INFO  | 2021-09-20 22:12:27 | [main] javapractice.App (App.java:17) - hello worldwill be printed on info
+WARN  | 2021-09-20 22:12:27 | [main] javapractice.App (App.java:18) - hello worldwill be printed on warn
+ERROR | 2021-09-20 22:12:27 | [main] javapractice.App (App.java:19) - hello worldwill be printed on error
+FATAL | 2021-09-20 22:12:27 | [main] javapractice.App (App.java:20) - hello worldwill be printed on fatal
+INFO  | 2021-09-20 22:12:27 | [main] javapractice.App (App.java:21) - appending string;hello world.
+DEBUG | 2021-09-20 22:25:15 | [main] javapractice.App (App.java:16) - hello worldwill be printed on debug
+INFO  | 2021-09-20 22:25:15 | [main] javapractice.App (App.java:17) - hello worldwill be printed on info
+WARN  | 2021-09-20 22:25:15 | [main] javapractice.App (App.java:18) - hello worldwill be printed on warn
+ERROR | 2021-09-20 22:25:15 | [main] javapractice.App (App.java:19) - hello worldwill be printed on error
+FATAL | 2021-09-20 22:25:15 | [main] javapractice.App (App.java:20) - hello worldwill be printed on fatal
+INFO  | 2021-09-20 22:25:15 | [main] javapractice.App (App.java:21) - appending string;hello world.
+DEBUG | 2021-09-20 22:33:12 | [main] javapractice.App (App.java:16) - hello worldwill be printed on debug
+INFO  | 2021-09-20 22:33:12 | [main] javapractice.App (App.java:17) - hello worldwill be printed on info
+WARN  | 2021-09-20 22:33:12 | [main] javapractice.App (App.java:18) - hello worldwill be printed on warn
+ERROR | 2021-09-20 22:33:12 | [main] javapractice.App (App.java:19) - hello worldwill be printed on error
+FATAL | 2021-09-20 22:33:12 | [main] javapractice.App (App.java:20) - hello worldwill be printed on fatal
+INFO  | 2021-09-20 22:33:12 | [main] javapractice.App (App.java:21) - appending string;hello world.
+DEBUG | 2021-09-20 22:34:18 | [main] javapractice.App (App.java:16) - hello worldwill be printed on debug
+INFO  | 2021-09-20 22:34:18 | [main] javapractice.App (App.java:17) - hello worldwill be printed on info
+WARN  | 2021-09-20 22:34:18 | [main] javapractice.App (App.java:18) - hello worldwill be printed on warn
+ERROR | 2021-09-20 22:34:18 | [main] javapractice.App (App.java:19) - hello worldwill be printed on error
+FATAL | 2021-09-20 22:34:18 | [main] javapractice.App (App.java:20) - hello worldwill be printed on fatal
+INFO  | 2021-09-20 22:34:18 | [main] javapractice.App (App.java:21) - appending string;hello world.
+DEBUG | 2021-09-21 20:11:40 | [main] javapractice.App (App.java:16) - hello worldwill be printed on debug
+INFO  | 2021-09-21 20:11:40 | [main] javapractice.App (App.java:17) - hello worldwill be printed on info
+WARN  | 2021-09-21 20:11:40 | [main] javapractice.App (App.java:18) - hello worldwill be printed on warn
+ERROR | 2021-09-21 20:11:40 | [main] javapractice.App (App.java:19) - hello worldwill be printed on error
+FATAL | 2021-09-21 20:11:40 | [main] javapractice.App (App.java:20) - hello worldwill be printed on fatal
+INFO  | 2021-09-21 20:11:40 | [main] javapractice.App (App.java:21) - appending string;hello world.
+INFO  | 2021-09-21 20:16:34 | [main] javapractice.App (App.java:17) - hello worldwill be printed on info
+WARN  | 2021-09-21 20:16:34 | [main] javapractice.App (App.java:18) - hello worldwill be printed on warn
+ERROR | 2021-09-21 20:16:34 | [main] javapractice.App (App.java:19) - hello worldwill be printed on error
+FATAL | 2021-09-21 20:16:34 | [main] javapractice.App (App.java:20) - hello worldwill be printed on fatal
+INFO  | 2021-09-21 20:16:34 | [main] javapractice.App (App.java:21) - appending string;hello world.
+INFO  | 2021-09-21 20:16:51 | [main] javapractice.App (App.java:17) - hello worldwill be printed on info
+WARN  | 2021-09-21 20:16:51 | [main] javapractice.App (App.java:18) - hello worldwill be printed on warn
+ERROR | 2021-09-21 20:16:51 | [main] javapractice.App (App.java:19) - hello worldwill be printed on error
+FATAL | 2021-09-21 20:16:51 | [main] javapractice.App (App.java:20) - hello worldwill be printed on fatal
+INFO  | 2021-09-21 20:16:51 | [main] javapractice.App (App.java:21) - appending string;hello world.
+INFO  | 2021-09-22 00:38:58 | [main] javapractice.App (App.java:17) - Hello worldwill be printed on info
+WARN  | 2021-09-22 00:38:58 | [main] javapractice.App (App.java:18) - Hello worldwill be printed on warn
+ERROR | 2021-09-22 00:38:58 | [main] javapractice.App (App.java:19) - Hello worldwill be printed on error
+FATAL | 2021-09-22 00:38:58 | [main] javapractice.App (App.java:20) - Hello worldwill be printed on fatal
+INFO  | 2021-09-22 00:38:58 | [main] javapractice.App (App.java:21) - appending string;Hello world.
+INFO  | 2021-09-22 12:51:11 | [main] javapractice.App (App.java:17) - Hello worldwill be printed on info
+WARN  | 2021-09-22 12:51:11 | [main] javapractice.App (App.java:18) - Hello worldwill be printed on warn
+ERROR | 2021-09-22 12:51:11 | [main] javapractice.App (App.java:19) - Hello worldwill be printed on error
+FATAL | 2021-09-22 12:51:11 | [main] javapractice.App (App.java:20) - Hello worldwill be printed on fatal
+INFO  | 2021-09-22 12:51:11 | [main] javapractice.App (App.java:21) - appending string;Hello world.
